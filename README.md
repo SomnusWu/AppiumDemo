@@ -1,6 +1,6 @@
 # AppiumDemo
 Android Appium 自动化测试Demo
-用eclipse导入 然后 ,找到 com.llg.web.main.AndroidContactsTest.java  里面有使用的基本方法  。
+用eclipse导入 然后 ,找到 com.llg.web.main.AndroidContactsTest.java  里面有使用的基本方法  . 使用JUnit Test 运行。
 ps ：需要先运行 appium 。</br>
 appium 环境搭建：</br>
 
