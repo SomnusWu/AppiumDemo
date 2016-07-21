@@ -5,22 +5,22 @@ ps ：需要先运行 appium 。</br>
 appium 环境搭建：</br>
 
 ##APPium 自动化测试</br>
-https://github.com/appium/appium/tree/master/docs/cn
-https://github.com/appium/appium/blob/master/docs/cn/appium-setup/running-on-windows.cn.md
+https://github.com/appium/appium/tree/master/docs/cn</br>
+https://github.com/appium/appium/blob/master/docs/cn/appium-setup/running-on-windows.cn.md</br>
 #环境</br>
-http://www.cnblogs.com/puresoul/p/4696638.html
-http://www.cnblogs.com/fnng/p/4540731.html
-http://blog.sina.com.cn/s/blog_70481cb90102vdnz.html
+http://www.cnblogs.com/puresoul/p/4696638.html</br>
+http://www.cnblogs.com/fnng/p/4540731.html</br>
+http://blog.sina.com.cn/s/blog_70481cb90102vdnz.html</br>
 
 
 #入门实例</br>
 
-https://github.com/appium/appium/blob/master/docs/cn/writing-running-appium/caps.cn.md
-http://www.cnblogs.com/oscarxie/p/3488262.html
-http://www.cnblogs.com/puresoul/p/4696825.html
+https://github.com/appium/appium/blob/master/docs/cn/writing-running-appium/caps.cn.md</br>
+http://www.cnblogs.com/oscarxie/p/3488262.html</br>
+http://www.cnblogs.com/puresoul/p/4696825.html</br>
 
 ###one project</br>
-http://blog.csdn.net/testingba/article/details/23435423
+http://blog.csdn.net/testingba/article/details/23435423</br>
 
 ####日志解读</br>
 http://blog.csdn.net/testingba/article/details/23449041
