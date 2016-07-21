@@ -11,6 +11,8 @@ https://github.com/appium/appium/blob/master/docs/cn/appium-setup/running-on-win
 http://www.cnblogs.com/puresoul/p/4696638.html
 http://www.cnblogs.com/fnng/p/4540731.html
 http://blog.sina.com.cn/s/blog_70481cb90102vdnz.html
+
+
 入门实例
 https://github.com/appium/appium/blob/master/docs/cn/writing-running-appium/caps.cn.md
 http://www.cnblogs.com/oscarxie/p/3488262.html
